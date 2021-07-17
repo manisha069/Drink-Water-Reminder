@@ -12,4 +12,4 @@ while True:
 	if curr.hour == hour:
 		toast()
 		hour = hour+2
-		time.sleep(7200)
+		time.sleep((2*60*60)
